@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: swagger-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: MSOCADMIN
+Implementation-Vendor-Id: com.techprimers.springboot
+Build-Jdk: 1.8.0_241
+Implementation-URL: http://projects.spring.io/spring-boot/swagger-exam
+ ple/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
